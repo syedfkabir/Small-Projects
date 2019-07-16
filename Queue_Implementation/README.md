@@ -15,6 +15,7 @@ This is the final output of the code:
 </p>
 
 The main function, in TestQueue.c has this background:
+<br>
 /*
     This set of code emulates the way a line would work at a local supermarket.
     I used the example of customers entering a Metro to buy meat at the Deli.
@@ -23,6 +24,7 @@ The main function, in TestQueue.c has this background:
     real life first come first served "lines". The code also shows how a queue would look if
     certain customers were already served their orders.
 */
+<br>
 
 <p align="center">
   <img src="images/main.png">
