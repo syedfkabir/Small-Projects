@@ -3,8 +3,8 @@
 </p>
 
 Here is a Queue Implementation I did, some of the things I implemented were:
-  - makefile 
-  - recusion 
+  - Makefile 
+  - Recursion 
   - Linked List ADT 
   - Queue ADT
 
