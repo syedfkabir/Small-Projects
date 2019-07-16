@@ -1,9 +1,14 @@
 <p align="center">
   Here is a Queue Implementation I did, some of the things I implemented were:
+  <br>
   - makefile 
+  <br>
   - recusion 
+  <br>
   - linked-list implementation of Queue ADT 
   <br>
-  
-  <img src="">
+  <br>
+  This is the final output of the code:
+  <br>
+  <img src="final.png">
 </p>
