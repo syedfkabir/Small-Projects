@@ -14,15 +14,24 @@ This is the final output of the code:
   <img src="images/final.png">
 </p>
 
+Here is the Makefile code, which creates .o and final exe file (./myProg):
+
+<p align="center">
+  <img src="images/makefile.png">
+</p>
+
 The main function, in TestQueue.c has this background:
+
 <br>
 /*
+
     This set of code emulates the way a line would work at a local supermarket.
     I used the example of customers entering a Metro to buy meat at the Deli.
     Customers at delis usually pull a ticket from a ticket dispenser, and wait for
     their "number to be called". This can be simulated using a queue, as it a ADT that mimics
     real life first come first served "lines". The code also shows how a queue would look if
     certain customers were already served their orders.
+    
 */
 <br>
 
@@ -56,7 +65,18 @@ Here are some noteworthy functions:
   <img src="images/recursion.png">
 </p>
 
+In my terminal, I used commands to display the file system, 
+This shows my understanding of using Makefiles and other linux/unix commands
 
+<p align="center">
+  <img src="images/test.png">
+</p>
+
+Finally, a clean is done:
+
+<p align="center">
+  <img src="images/clean.png">
+</p>
 
 
   
