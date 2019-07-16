@@ -5,8 +5,11 @@
 Here is a Queue Implementation I did, some of the things I implemented were:
   - makefile 
   - recusion 
-  - linked-list implementation of Queue ADT 
+  - Linked List ADT 
+  - Queue ADT
 
-  This is the final output of the code:
+This is the final output of the code:
 
+<p align="center">
   <img src="images/final.png">
+</p>
