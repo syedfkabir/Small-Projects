@@ -1,0 +1,55 @@
+﻿<!-- Syed Kabir , 991493211 -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <script src="js/script.js"></script>
+    <title>Syed Kabir</title>
+</head>
+<body>
+
+    <header>
+        <h3>Assignment #1, Syed Kabir, 991493211</h3>
+    </header>
+
+    <h3>Welcome to the Paint Order Mobile Site</h3>
+    <h4>Please enter all the information below</h4>
+    <form id="paintInfo" action="quote.html" onsubmit="return requestQuote()">
+        Full Name:<br>
+        <input type="text" id="tbName" name="tbName"><br><br>
+        Email Address:<br>
+        <input type="text" id="tbEmail" name="tbEmail"><br><br>
+        Which room are you painting:<br>
+        <input type="text" id="tbRoom" name="tbRoom"><br><br>
+        Height of room walls:<br>
+        <input type="number" id="tbHeight" name="tbHeight"><br><br>
+        Width of room walls:<br>
+        <input type="number" id="tbWidth" name="tbWidth"><br><br>
+        Select your color:<br>
+        <input type="color" id="tbColor" name="rmColor" value="#ff0204"><br><br>
+        Choose either Standard or Premium Paint:<br />
+        <select id="select" name="typeOfPaint">
+            <option value="standard">Standard ($24.99)</option>
+            <option value="premium">Premium ($39.99)</option>
+        </select><br><br>
+        <input type="submit" value="Request Quote">
+
+
+    </form>
+
+
+
+    <footer>
+        <h3>Your Sales Representative:</h3>
+        <img src="/pics/Syed.png">
+        <h5>I hope I was able to assist!</h5>
+        <h4>kabirsy, Davis Campus</h4>
+    </footer>
+
+
+
+</body>
+</html>
