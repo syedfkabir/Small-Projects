@@ -16,6 +16,9 @@ This is what it looks like when its running:
   <br>
   <img src="images/s.png">
   <br>
+  <br>
+  <br>
+  After clicking Request Quote and getting redirected to the next page:
   <img src="images/l.png">
   <br>
 </p>
