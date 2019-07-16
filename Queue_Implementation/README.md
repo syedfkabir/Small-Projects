@@ -31,7 +31,6 @@ The main function, in TestQueue.c has this background:
     their "number to be called". This can be simulated using a queue, as it a ADT that mimics
     real life first come first served "lines". The code also shows how a queue would look if
     certain customers were already served their orders.
-    
 */
 <br>
 
