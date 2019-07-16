@@ -10,5 +10,5 @@
   <br>
   This is the final output of the code:
   <br>
-  <img src="final.png">
+  <img src="images/final.png">
 </p>
